@@ -28,3 +28,12 @@
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+
+### Day 1: August 9, Thursday
+
+**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+
+**Thoughts**  accomplished a lot CSS Aplied Visual Design
+**Link(s) to work**
+
+
