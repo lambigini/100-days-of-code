@@ -34,6 +34,7 @@
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
 
 **Thoughts**  accomplished a lot CSS Aplied Visual Design
+
 **Link(s) to work**
 
 
