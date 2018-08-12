@@ -37,4 +37,18 @@
 
 **Link(s) to work**
 
+### Day 2: August 10, Friday
 
+**Today's Progress**: continue to working on CSS: skewX, skewY, transform, linear-gradient() 
+
+**Thoughts**  I'm feeling great when commit to something and trying to accomplished it
+
+**Link(s) to work**
+
+### Day 3: August 11, Saturday
+
+**Today's Progress**: learning to make a heartbeat using infinite animation 
+
+**Thoughts**  I reraly worked on Saturday but here it go, for Front End Web Developer Job after 100 Days Of Code
+
+**Link(s) to work**
