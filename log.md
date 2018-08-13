@@ -52,3 +52,11 @@
 **Thoughts**  I reraly worked on Saturday but here it go, for Front End Web Developer Job after 100 Days Of Code
 
 **Link(s) to work**
+
+### Day 4: August 12, Sunday
+
+**Today's Progress**: working on CSS header, footer, nav, audio, label, figure
+
+**Thoughts**  it getting harder to understand especial with CSS: figure
+
+**Link(s) to work**
