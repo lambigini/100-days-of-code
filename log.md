@@ -60,3 +60,19 @@
 **Thoughts**  it getting harder to understand especial with CSS: figure
 
 **Link(s) to work**
+
+### Day 5: August 13, Monday
+
+**Today's Progress**: working on responsive web design: media query, make image responsive, typography responsive
+
+**Thoughts**  it's getting excited
+
+**Link(s) to work**
+
+### Day 6: August 14, Tuesday
+
+**Today's Progress**: exploring CSS flex box:flex, flex-direction, justify-content, align-items, flex-shrink, flex-wrap
+
+**Thoughts**  it's getting excited
+
+**Link(s) to work**
