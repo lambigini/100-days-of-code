@@ -76,3 +76,11 @@
 **Thoughts**  it's getting excited
 
 **Link(s) to work**
+
+### Day 7: August 15, Wednesday
+
+**Today's Progress**: exploring CSS grid: grid-template-columns, grid-column-gap, grid-row, justify-self, align-items
+
+**Thoughts**  it's easy to confuse between many CSS attribute
+
+**Link(s) to work** 
