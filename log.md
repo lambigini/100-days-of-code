@@ -84,3 +84,19 @@
 **Thoughts**  it's easy to confuse between many CSS attribute
 
 **Link(s) to work** 
+
+### Day 8: August 16, Thursday
+
+**Today's Progress**: creat HTML file for first freeCodeCamp project
+
+**Thoughts**  it's not easy as it look
+
+**Link(s) to work** 
+
+### Day 9: August 17, Friday
+
+**Today's Progress**: creat HTML file for first freeCodeCamp project
+
+**Thoughts**  there is a lot thing to review
+
+**Link(s) to work** 
