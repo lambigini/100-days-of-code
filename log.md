@@ -108,3 +108,12 @@
 **Thoughts**  gaining a lot of experience after finished this project
 
 **Link(s) to work** 
+
+### Day 11: August 19, Sunday
+
+**Today's Progress**: compare the source code with my code to better understand some aspect of the project
+
+**Thoughts**  understand more and memorize more about elements in HTML\CSS
+
+**Link(s) to work** 
+
