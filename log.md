@@ -100,3 +100,11 @@
 **Thoughts**  there is a lot thing to review
 
 **Link(s) to work** 
+
+### Day 10: August 18, Saturday
+
+**Today's Progress**: Finished first HTML/CSS project
+
+**Thoughts**  gaining a lot of experience after finished this project
+
+**Link(s) to work** 
