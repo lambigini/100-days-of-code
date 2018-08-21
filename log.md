@@ -117,3 +117,11 @@
 
 **Link(s) to work** 
 
+### Day 12: August 20, Monday
+
+**Today's Progress**: Day 12 working on a new HTLM, CSS project, got the HTML layout wrong, then spend a lot of time to style it but it's still not working, gain some experience from the mistake, will rebuild the HTML layout 
+
+**Thoughts**  get the HTML layout correct from the beginning then it's will be easier to style, otherwise, it'll consume a lot of time
+
+**Link(s) to work** 
+
