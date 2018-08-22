@@ -127,3 +127,13 @@
 
 **Link(s) to work** 
 
+### Day 13: August 21, Tuesday
+
+**Today's Progress**: rebuild HTML layout of second project, got half of the CSS style done
+
+**Thoughts**  
+
+**Link(s) to work** 
+
+
+
