@@ -150,6 +150,6 @@
 **Thoughts**  feel awesome, accomplished something, getting better with CSS style, flexbox
 
 **Link(s) to work** 
-  [Buil a Survey Form](https://codepen.io/lambigini/pen/rZNJYd)
+  [Build a Survey Form](https://codepen.io/lambigini/pen/rZNJYd)
 
 
