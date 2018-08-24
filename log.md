@@ -135,5 +135,21 @@
 
 **Link(s) to work** 
 
+### Day 14: August 22, Wednesday
+
+**Today's Progress**: got the general CSS done
+
+**Thoughts**  
+
+**Link(s) to work** 
+
+### Day 15: August 23, Thursday
+
+**Today's Progress**: add phone and tablet responsive design, finished build survey project
+
+**Thoughts**  feel awesome, accomplished something, getting better with CSS style, flexbox
+
+**Link(s) to work** 
+  [Buil a Survey Form](https://codepen.io/lambigini/pen/rZNJYd)
 
 
