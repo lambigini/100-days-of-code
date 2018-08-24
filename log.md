@@ -110,6 +110,7 @@
 **Thoughts**  gaining a lot of experience after finished this project
 
 **Link(s) to work** 
+[Tribute Page] (https://codepen.io/lambigini/pen/jpjREq)
 
 ### Day 11: August 19, Sunday
 
