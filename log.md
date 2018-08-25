@@ -153,4 +153,11 @@
 **Link(s) to work** 
   [Build a Survey Form](https://codepen.io/lambigini/pen/rZNJYd)
 
+### Day 16: August 24, Friday
 
+**Today's Progress**: pratice more Flexbox with flexbox zombies, mdn web docs
+
+**Thoughts**  getting good with Flexbox
+
+**Link(s) to work** 
+  
