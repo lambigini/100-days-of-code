@@ -163,7 +163,7 @@
 
 ### Day 17: August 28, Tuesday
 
-**Today's Progress**: pratice flex-shrink and finished a challenge on MDN web
+**Today's Progress**: practice flex-shrink and finished a challenge on MDN web
 
 **Thoughts**  
 
