@@ -160,4 +160,13 @@
 **Thoughts**  getting good with Flexbox
 
 **Link(s) to work** 
+
+### Day 17: August 28, Tuesday
+
+**Today's Progress**: pratice flex-shrink and finished a challenge on MDN web
+
+**Thoughts**  
+
+**Link(s) to work** 
+
   
